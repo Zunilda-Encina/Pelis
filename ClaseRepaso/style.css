@@ -1,0 +1,32 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+background-color: aquamarine;
+}
+
+.productos{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    box-shadow: 0px 20px rgb(0, 0, 0, 0.3);
+}
+
+.productos h2{
+       font-size: 18px;
+       font-weight: 200;
+}
+.productos img{
+    width: 80%;
+    margin-left: 10px;
+}
+.productos .descripcion{
+    color:rebeccapurple;
+    text-align: center;
+}
+.productos .precio{
+    color: black;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: left;
+
+}
